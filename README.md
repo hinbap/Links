@@ -34,3 +34,6 @@ A list of websites I find interesting
 ### 🪴 Digital Gardens
 - [Ewan](https://ewan.my/): from sylvan franklin's youtube video
 - [Maggie](https://maggieappleton.com/): random but cool formatting
+
+### 🎨 Art
+- [Tyler Hobbs](https://www.tylerxhobbs.com/): made with math
