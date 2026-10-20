@@ -30,6 +30,7 @@ A list of websites I find interesting
 -  [distill](https://distill.pub/): machine learning
 -  [Thomas Havlik](https://thavlik.dev/): really cool dev portfolio specifically on medical software
 -  [leerob](https://leerob.com/)
+-  [Anthony Fu](https://antfu.me)
 
 ### 🪴 Digital Gardens
 - [Ewan](https://ewan.my/): from sylvan franklin's youtube video
