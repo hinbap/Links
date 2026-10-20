@@ -29,6 +29,7 @@ A list of websites I find interesting
 -  [Senior Mars](https://seniormars.com/): one of my favorite youtubers. check out his latex stuff
 -  [distill](https://distill.pub/): machine learning
 -  [Thomas Havlik](https://thavlik.dev/): really cool dev portfolio specifically on medical software
+-  [leerob](https://leerob.com/)
 
 ### 🪴 Digital Gardens
 - [Ewan](https://ewan.my/): from sylvan franklin's youtube video
