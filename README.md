@@ -7,6 +7,10 @@ A list of websites I find interesting
 - [Alisa's math notes](https://alisawuffles.notion.site/math-notes): notes on math related to AI
 - [Scientific Diagrams](https://diagrams.janosh.dev/): free math diagrams with tex and typst code
 
+#### Youtube Lectures
+- [Abstract Algebra](https://www.youtube.com/watch?v=VdLhQs_y_E8&list=PLelIK3uylPMGzHBuR3hLMHrYfMqWWsmx5)
+- [Real Analysis](https://www.youtube.com/watch?v=sqEyWLGvvdw&list=PL0E754696F72137EC&index=2)
+
 ### 🤖 Computer Science
 - [Drew Breunig's blog](https://www.dbreunig.com/): introduced by his article, "Cybersecurity Looks Like Proof of Work Now". cool stuff
 - [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
